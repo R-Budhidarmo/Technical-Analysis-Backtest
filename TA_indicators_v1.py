@@ -37,8 +37,7 @@ def RSI(data, window):
 # Exponential Moving Averages (EMA)
 
 def EMA(data, period):
-    
-    period = 100
+   
     data[f'EMA{period}'] = data['Close'].ewm(span=period, adjust=False, min_periods=period).mean()
 
     return(data)
