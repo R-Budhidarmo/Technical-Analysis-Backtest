@@ -25,4 +25,21 @@ Here, Stop Losses (SL) and Target Profits (TP) are also used to define our exits
 In this 2nd strategy, we are only going to go long when a signal arises & sell when our SL or TP is hit (we're not going to short anything at this point).
 As an example, the strategies have been applied on the daily share price data from 2018 - 2023 [downloaded](https://github.com/R-Budhidarmo/Algorithmic-Trading-Backtest/blob/main/GSK.L.csv) or scraped from Yahoo Finance for GlaxoSmithKline stock ([GSK.L](https://uk.finance.yahoo.com/quote/GSK.L/history/)) (as listed on the London Stock Exchange).
 
+### Strategy 3: [EMA_MACD_SuperTrend_strategy](https://github.com/R-Budhidarmo/Algorithmic-Trading-Backtest/blob/main/EMA_MACD_SuperTrend_strategy.ipynb)
+
+This 3rd example shows how a strategy based on EMA (Exponential Moving Average), MACD (Moving Average Converge Divergence) and the SuperTrend indicator can be implemented for backtesting and to calculate the expected P & L (this strategy is a continuation from strategy 2 above).
+
+- Entry Signal: Close Price > EMA200, MACD histogram > 0, Close Price > SuperTrend
+- Exit Signal: Close Price < SuperTrend
+
+### Strategy 4: [WMA_VI_CMF_CHOP_SuperTrend_strategy](https://github.com/R-Budhidarmo/Algorithmic-Trading-Backtest/blob/main/WMA_VI_CMF_CHOP_SuperTrend_strategy.ipynb)
+
+In this 4th example, an entirely different set of indicators were employed - WMA (Weighted Moving Average), VI (Vortex Indicator), CMF (Chaikin Money Flow), CHOP (Choppiness Index), and the SuperTrend indicators - to compare it to strategy 3.
+
+- Entry Signal: Close Price > WMA200, +VI > 1, CMF > 0, CHOP < 50, Close Price > SuperTrend
+- Exit Signal: Close Price < SuperTrend
+
+*For strategy 3 and 4 only:*
+The ATR (Average True Range)-based SuperTrend indicator was also used as a trailing Stop Losses (SL) to define our exits. The strategies were be applied on the daily price data from 2018 - 2023 scraped from Yahoo Finance for a Silver ETF (iShares Silver Trust) ([SLV](https://uk.finance.yahoo.com/quote/SLV)). The functions for the various indicators can be found in a file named ['TA_indicators_v1.py'](https://github.com/R-Budhidarmo/Algorithmic-Trading-Backtest/blob/main/TA_indicators_v1.py) in this repo. The function to calculate the P & L, generate a summary table & chart can be in a file named ['PnL_calculations_v1.py'](https://github.com/R-Budhidarmo/Algorithmic-Trading-Backtest/blob/main/PnL_calculations_v1.py) in this repo.
+
 **More strategy examples to follow in the future**
