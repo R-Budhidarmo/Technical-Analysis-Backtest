@@ -42,4 +42,8 @@ In this 4th example, an entirely different set of indicators were employed - WMA
 *For strategy 3 and 4 only:*
 The ATR (Average True Range)-based SuperTrend indicator was also used as a trailing Stop Losses (SL) to define our exits. The strategies were be applied on the daily price data from 2018 - 2023 scraped from Yahoo Finance for a Silver ETF (iShares Silver Trust) ([SLV](https://uk.finance.yahoo.com/quote/SLV)). The functions for the various indicators can be found in a file named ['TA_indicators_v1.py'](https://github.com/R-Budhidarmo/Algorithmic-Trading-Backtest/blob/main/TA_indicators_v1.py) in this repo. The function to calculate the P & L, generate a summary table & chart can be in a file named ['PnL_calculations_v1.py'](https://github.com/R-Budhidarmo/Algorithmic-Trading-Backtest/blob/main/PnL_calculations_v1.py) in this repo.
 
+### Strategy 5: [Dollar Cost Averaging + MACD](https://github.com/R-Budhidarmo/Algorithmic-Trading-Backtest/blob/main/dollar_cost_averaging.ipynb)
+
+Here, the popular Dollar Cost Averaging (DCA) investing approach is evaluated for ETF investing. The strategy is compared to buy-and-hold, as well as to a modified DCA strategy involving MACD to generete buy and sell signals. As an example, the analysis was performed on [VUSA ETF](https://www.vanguardinvestor.co.uk/investments/vanguard-s-and-p-500-ucits-etf-usd-distributing/overview) that tracks the S&P500. The OHLC data for the ETF from May 2018 - May 2023 has been downloaded from Yahoo Finance and is supplied as [csv](https://github.com/R-Budhidarmo/Algorithmic-Trading-Backtest/blob/main/VUSA.L.csv).
+
 **More strategy examples to follow in the future**
