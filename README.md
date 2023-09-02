@@ -1,4 +1,4 @@
-# Algorithmic-Trading-Backtest
+# Technical-Analysis-Backtest
 
 This is a repository of files that are part of an ongoing project to develop tools for trend-following trading systems based purely on technical analysis. Examples of the strategies can be found below and more will be developed and added here in the future. Examples of common technical indicators functions in Python can be found [here](https://github.com/R-Budhidarmo/Technical-Analysis-Backtest/blob/main/TA_indicators_v1.py).
 
