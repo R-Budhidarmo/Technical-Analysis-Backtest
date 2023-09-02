@@ -1,8 +1,5 @@
 # This file contains functions for various common technical analysis indicators for analyses of time series data for stocks, forex or other securities.
-# The dataset needs to have the usual OHLC (Open, High, Low, CLose) data, of course.
-# I know there are other great Python libraries for TA indicators, 
-# but here I worked out most of the functions myself from scratch as a coding exercise.
-# So, this is still definitely a work in progress and should not be used to execute actual trades in the financial markets.
+# The dataset needs to have the usual OHLCV (Open, High, Low, Close, Volume) headings, of course.
 
 import numpy as np
 
