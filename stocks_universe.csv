@@ -1,0 +1,504 @@
+﻿No,Company,Ticker Symbol,Class
+1,Apple Inc,AAPL,Stock
+2,Microsoft Corp,MSFT,Stock
+3,Amazon.com Inc,AMZN,Stock
+4,Nvidia Corp,NVDA,Stock
+5,Alphabet Inc Cl A,GOOGL,Stock
+6,Tesla Inc,TSLA,Stock
+7,Alphabet Inc Cl C,GOOG,Stock
+8,Meta Platforms Inc Class A,META,Stock
+9,Berkshire Hathaway Inc Cl B,BRK-B,Stock
+10,Exxon Mobil Corp,XOM,Stock
+11,Unitedhealth Group Inc,UNH,Stock
+12,Johnson & Johnson,JNJ,Stock
+13,Jpmorgan Chase & Co,JPM,Stock
+14,Broadcom Inc,AVGO,Stock
+15,Visa Inc Class a Shares,V,Stock
+16,Eli Lilly & Co,LLY,Stock
+17,Procter & Gamble Co,PG,Stock
+18,Mastercard Inc A,MA,Stock
+19,Home Depot Inc,HD,Stock
+20,Chevron Corp,CVX,Stock
+21,Merck & Co. Inc.,MRK,Stock
+22,Pepsico Inc,PEP,Stock
+23,Abbvie Inc,ABBV,Stock
+24,Coca Cola Co,KO,Stock
+25,Costco Wholesale Corp,COST,Stock
+26,Pfizer Inc,PFE,Stock
+27,Walmart Inc,WMT,Stock
+28,Adobe Inc,ADBE,Stock
+29,Mcdonald S Corp,MCD,Stock
+30,Salesforce Inc,CRM,Stock
+31,Cisco Systems Inc,CSCO,Stock
+32,Advanced Micro Devices,AMD,Stock
+33,Thermo Fisher Scientific Inc,TMO,Stock
+34,Bank of America Corp,BAC,Stock
+35,Accenture Plc Cl A,ACN,Stock
+36,Netflix Inc,NFLX,Stock
+37,Oracle Corp,ORCL,Stock
+38,Linde Plc,LIN,Stock
+39,Abbott Laboratories,ABT,Stock
+40,Comcast Corp Class A,CMCSA,Stock
+41,Walt Disney Co,DIS,Stock
+42,Texas Instruments Inc,TXN,Stock
+43,Wells Fargo & Co,WFC,Stock
+44,Danaher Corp,DHR,Stock
+45,Verizon Communications Inc,VZ,Stock
+46,Intel Corp,INTC,Stock
+47,Nextera Energy Inc,NEE,Stock
+48,Philip Morris International,PM,Stock
+49,Raytheon Technologies Corp,RTX,Stock
+50,Nike Inc Cl B,NKE,Stock
+51,Qualcomm Inc,QCOM,Stock
+52,Bristol Myers Squibb Co,BMY,Stock
+53,Honeywell International Inc,HON,Stock
+54,Lowe S Cos Inc,LOW,Stock
+55,S&p Global Inc,SPGI,Stock
+56,United Parcel Service Cl B,UPS,Stock
+57,Caterpillar Inc,CAT,Stock
+58,Conocophillips,COP,Stock
+59,Intuit Inc,INTU,Stock
+60,Intl Business Machines Corp,IBM,Stock
+61,Union Pacific Corp,UNP,Stock
+62,Boeing Co,BA,Stock
+63,Applied Materials Inc,AMAT,Stock
+64,Amgen Inc,AMGN,Stock
+65,Medtronic Plc,MDT,Stock
+66,Starbucks Corp,SBUX,Stock
+67,Servicenow Inc,NOW,Stock
+68,Morgan Stanley,MS,Stock
+69,Goldman Sachs Group Inc,GS,Stock
+70,General Electric Co,GE,Stock
+71,Intuitive Surgical Inc,ISRG,Stock
+72,At&t Inc,T,Stock
+73,Prologis Inc,PLD,Stock
+74,Deere & Co,DE,Stock
+75,Elevance Health Inc,ELV,Stock
+76,Blackrock Inc,BLK,Stock
+77,American Express Co,AXP,Stock
+78,Lockheed Martin Corp,LMT,Stock
+79,Booking Holdings Inc,BKNG,Stock
+80,Mondelez International Inc A,MDLZ,Stock
+81,Stryker Corp,SYK,Stock
+82,Analog Devices Inc,ADI,Stock
+83,Gilead Sciences Inc,GILD,Stock
+84,Citigroup Inc,C,Stock
+85,Tjx Companies Inc,TJX,Stock
+87,Automatic Data Processing,ADP,Stock
+88,American Tower Corp,AMT,Stock
+89,Marsh & Mclennan Cos,MMC,Stock
+90,Vertex Pharmaceuticals Inc,VRTX,Stock
+91,Cvs Health Corp,CVS,Stock
+92,Lam Research Corp,LRCX,Stock
+93,Schwab (Charles) Corp,SCHW,Stock
+94,Regeneron Pharmaceuticals,REGN,Stock
+95,The Cigna Group,CI,Stock
+96,Altria Group Inc,MO,Stock
+97,Chubb Ltd,CB,Stock
+98,Zoetis Inc,ZTS,Stock
+99,Eaton Corp Plc,ETN,Stock
+100,Southern Co,SO,Stock
+101,Boston Scientific Corp,BSX,Stock
+102,Fiserv Inc,FI,Stock
+103,T Mobile Us Inc,TMUS,Stock
+104,Micron Technology Inc,MU,Stock
+105,Progressive Corp,PGR,Stock
+106,Paypal Holdings Inc,PYPL,Stock
+107,Becton Dickinson and Co,BDX,Stock
+108,Equinix Inc,EQIX,Stock
+109,Duke Energy Corp,DUK,Stock
+110,Csx Corp,CSX,Stock
+111,Synopsys Inc,SNPS,Stock
+112,Illinois Tool Works,ITW,Stock
+113,Schlumberger Ltd,SLB,Stock
+114,Kla Corp,KLAC,Stock
+115,Aon Plc Class A,AON,Stock
+116,Cme Group Inc,CME,Stock
+117,Eog Resources Inc,EOG,Stock
+118,Cadence Design Sys Inc,CDNS,Stock
+119,Northrop Grumman Corp,NOC,Stock
+120,Air Products & Chemicals Inc,APD,Stock
+121,Colgate Palmolive Co,CL,Stock
+122,Intercontinental Exchange In,ICE,Stock
+123,Target Corp,TGT,Stock
+124,Waste Management Inc,WM,Stock
+125,Hca Healthcare Inc,HCA,Stock
+126,Sherwin Williams Co,SHW,Stock
+127,Activision Blizzard Inc,ATVI,Stock
+128,Freeport Mcmoran Inc,FCX,Stock
+129,Chipotle Mexican Grill Inc,CMG,Stock
+130,Humana Inc,HUM,Stock
+131,O Reilly Automotive Inc,ORLY,Stock
+132,3m Co W/d,MMM,Stock
+133,Edwards Lifesciences Corp,EW,Stock
+134,Ford Motor Co,F,Stock
+135,Mckesson Corp,MCK,Stock
+136,Moody S Corp,MCO,Stock
+137,Fedex Corp,FDX,Stock
+138,General Motors Co,GM,Stock
+139,Pnc Financial Services Group,PNC,Stock
+140,Marathon Petroleum Corp,MPC,Stock
+141,Nxp Semiconductors Nv,NXPI,Stock
+142,Norfolk Southern Corp,NSC,Stock
+143,Crown Castle Inc,CCI,Stock
+144,Emerson Electric Co,EMR,Stock
+145,Dexcom Inc,DXCM,Stock
+146,Marriott International Cl A,MAR,Stock
+147,Roper Technologies Inc,ROP,Stock
+148,Amphenol Corp Cl A,APH,Stock
+149,Pioneer Natural Resources Co,PXD,Stock
+150,General Dynamics Corp,GD,Stock
+151,General Mills Inc,GIS,Stock
+152,Microchip Technology Inc,MCHP,Stock
+153,Parker Hannifin Corp,PH,Stock
+154,Motorola Solutions Inc,MSI,Stock
+155,Fortinet Inc,FTNT,Stock
+156,Sempra Energy,SRE,Stock
+157,Autodesk Inc,ADSK,Stock
+158,Kimberly Clark Corp,KMB,Stock
+159,Autozone Inc,AZO,Stock
+160,Public Storage,PSA,Stock
+161,Us Bancorp,USB,Stock
+162,Phillips 66,PSX,Stock
+163,Ecolab Inc,ECL,Stock
+164,Estee Lauder Companies Cl A,EL,Stock
+165,Arthur J Gallagher & Co,AJG,Stock
+166,Monster Beverage Corp,MNST,Stock
+167,Johnson Controls Internation,JCI,Stock
+168,Dominion Energy Inc,D,Stock
+169,Biogen Inc,BIIB,Stock
+170,Valero Energy Corp,VLO,Stock
+171,Capital One Financial Corp,COF,Stock
+172,American Electric Power,AEP,Stock
+173,Occidental Petroleum Corp,OXY,Stock
+174,Transdigm Group Inc,TDG,Stock
+175,Truist Financial Corp,TFC,Stock
+176,Cintas Corp,CTAS,Stock
+177,Te Connectivity Ltd,TEL,Stock
+178,Arista Networks Inc,ANET,Stock
+179,Trane Technologies Plc,TT,Stock
+180,Moderna Inc,MRNA,Stock
+181,American International Group,AIG,Stock
+182,Corteva Inc,CTVA,Stock
+183,Paccar Inc,PCAR,Stock
+184,Archer Daniels Midland Co,ADM,Stock
+185,Travelers Cos Inc,TRV,Stock
+186,Constellation Brands Inc A,STZ,Stock
+187,On Semiconductor,ON,Stock
+188,Exelon Corp,EXC,Stock
+189,Iqvia Holdings Inc,IQV,Stock
+190,Msci Inc,MSCI,Stock
+191,Idexx Laboratories Inc,IDXX,Stock
+192,Carrier Global Corp,CARR,Stock
+193,Aflac Inc,AFL,Stock
+194,Welltower Inc,WELL,Stock
+195,Yum Brands Inc,YUM,Stock
+196,Realty Income Corp,O,Stock
+197,Hershey Co,HSY,Stock
+198,Hilton Worldwide Holdings In,HLT,Stock
+199,Nucor Corp,NUE,Stock
+200,Hess Corp,HES,Stock
+201,Dow Inc,DOW,Stock
+202,Copart Inc,CPRT,Stock
+203,Sysco Corp,SYY,Stock
+204,Williams Cos Inc,WMB,Stock
+205,Ross Stores Inc,ROST,Stock
+206,Otis Worldwide Corp,OTIS,Stock
+207,L3harris Technologies Inc,LHX,Stock
+208,Simon Property Group Inc,SPG,Stock
+209,Dollar General Corp,DG,Stock
+210,Rockwell Automation Inc,ROK,Stock
+211,Paychex Inc,PAYX,Stock
+212,Centene Corp,CNC,Stock
+213,Dr Horton Inc,DHI,Stock
+214,Metlife Inc,MET,Stock
+215,Charter Communications Inc A,CHTR,Stock
+216,Agilent Technologies Inc,A,Stock
+217,Ametek Inc,AME,Stock
+218,Verisk Analytics Inc,VRSK,Stock
+219,Xcel Energy Inc,XEL,Stock
+220,Costar Group Inc,CSGP,Stock
+221,Ameriprise Financial Inc,AMP,Stock
+222,Newmont Corp,NEM,Stock
+223,Kinder Morgan Inc,KMI,Stock
+224,Electronic Arts Inc,EA,Stock
+225,Cummins Inc,CMI,Stock
+226,Ppg Industries Inc,PPG,Stock
+227,Ww Grainger Inc,GWW,Stock
+228,Consolidated Edison Inc,ED,Stock
+229,Vici Properties Inc,VICI,Stock
+230,Cognizant Tech Solutions A,CTSH,Stock
+231,Fidelity National Info Serv,FIS,Stock
+232,Bank of New York Mellon Corp,BK,Stock
+233,Illumina Inc,ILMN,Stock
+234,Dupont De Nemours Inc,DD,Stock
+235,Devon Energy Corp,DVN,Stock
+236,Resmed Inc,RMD,Stock
+237,Fastenal Co,FAST,Stock
+238,Prudential Financial Inc,PRU,Stock
+239,Discover Financial Services,DFS,Stock
+240,Public Service Enterprise Gp,PEG,Stock
+241,Kroger Co,KR,Stock
+242,Constellation Energy,CEG,Stock
+243,Warner Bros Discovery Inc,WBD,Stock
+244,Digital Realty Trust Inc,DLR,Stock
+245,Baker Hughes Co,BKR,Stock
+246,Zimmer Biomet Holdings Inc,ZBH,Stock
+247,Allstate Corp,ALL,Stock
+248,Keysight Technologies In,KEYS,Stock
+249,Republic Services Inc,RSG,Stock
+250,Mettler Toledo International,MTD,Stock
+251,Ansys Inc,ANSS,Stock
+252,Lennar Corp A,LEN,Stock
+253,Kraft Heinz Co,KHC,Stock
+254,Halliburton Co,HAL,Stock
+255,Old Dominion Freight Line,ODFL,Stock
+256,Amerisourcebergen Corp,ABC,Stock
+257,Dollar Tree Inc,DLTR,Stock
+258,Wec Energy Group Inc,WEC,Stock
+259,Ge Healthcare Technology,GEHC,Stock
+260,American Water Works Co Inc,AWK,Stock
+261,United Rentals Inc,URI,Stock
+262,Equifax Inc,EFX,Stock
+263,Gartner Inc,IT,Stock
+264,P G & E Corp,PCG,Stock
+265,Vulcan Materials Co,VMC,Stock
+266,Aptiv Plc,APTV,Stock
+267,Delta Air Lines Inc,DAL,Stock
+268,Oneok Inc,OKE,Stock
+269,Keurig Dr Pepper Inc,KDP,Stock
+270,Hp Inc,HPQ,Stock
+271,Xylem Inc,XYL,Stock
+272,Global Payments Inc,GPN,Stock
+273,Avalonbay Communities Inc,AVB,Stock
+274,Albemarle Corp,ALB,Stock
+275,Quanta Services Inc,PWR,Stock
+276,Martin Marietta Materials,MLM,Stock
+277,West Pharmaceutical Services,WST,Stock
+278,Edison International,EIX,Stock
+279,Ingersoll Rand Inc,IR,Stock
+280,Arch Capital Group Ltd,ACGL,Stock
+281,State Street Corp,STT,Stock
+282,Corning Inc,GLW,Stock
+283,T Rowe Price Group Inc,TROW,Stock
+284,Sba Communications Corp,SBAC,Stock
+285,Cbre Group Inc A,CBRE,Stock
+286,Fortive Corp,FTV,Stock
+287,Ebay Inc,EBAY,Stock
+288,Willis Towers Watson Plc,WTW,Stock
+289,Enphase Energy Inc,ENPH,Stock
+290,Eversource Energy,ES,Stock
+291,Tractor Supply Company,TSCO,Stock
+292,Monolithic Power Systems Inc,MPWR,Stock
+293,Cdw Corp/de,CDW,Stock
+294,Align Technology Inc,ALGN,Stock
+295,Diamondback Energy Inc,FANG,Stock
+296,Church & Dwight Co Inc,CHD,Stock
+297,Lyondellbasell Indu Cl A,LYB,Stock
+298,Mccormick & Co Non Vtg Shrs,MKC,Stock
+299,Ulta Beauty Inc,ULTA,Stock
+300,Equity Residential,EQR,Stock
+301,Walgreens Boots Alliance Inc,WBA,Stock
+302,Weyerhaeuser Co,WY,Stock
+303,Hartford Financial Svcs Grp,HIG,Stock
+304,Genuine Parts Co,GPC,Stock
+305,Cardinal Health Inc,CAH,Stock
+306,Baxter International Inc,BAX,Stock
+307,Dte Energy Company,DTE,Stock
+308,Take Two Interactive Softwre,TTWO,Stock
+309,Hewlett Packard Enterprise,HPE,Stock
+310,Ameren Corporation,AEE,Stock
+311,Steris Plc,STE,Stock
+312,Firstenergy Corp,FE,Stock
+313,Royal Caribbean Cruises Ltd,RCL,Stock
+314,M & T Bank Corp,MTB,Stock
+315,Entergy Corp,ETR,Stock
+316,Darden Restaurants Inc,DRI,Stock
+317,Dover Corp,DOV,Stock
+318,Verisign Inc,VRSN,Stock
+319,Laboratory Crp of Amer Hldgs,LH,Stock
+320,Fair Isaac Corp,FICO,Stock
+321,Intl Flavors & Fragrances,IFF,Stock
+322,Southwest Airlines Co,LUV,Stock
+323,Insulet Corp,PODD,Stock
+324,Ppl Corp,PPL,Stock
+325,Invitation Homes Inc,INVH,Stock
+326,Las Vegas Sands Corp,LVS,Stock
+327,Hologic Inc,HOLX,Stock
+328,Omnicom Group,OMC,Stock
+329,Alexandria Real Estate Equit,ARE,Stock
+330,Extra Space Storage Inc,EXR,Stock
+331,Coterra Energy Inc,CTRA,Stock
+332,First Solar Inc,FSLR,Stock
+333,Clorox Company,CLX,Stock
+334,Raymond James Financial Inc,RJF,Stock
+335,Expeditors Intl Wash Inc,EXPD,Stock
+336,Teledyne Technologies Inc,TDY,Stock
+337,Ventas Inc,VTR,Stock
+338,Broadridge Financial Solutio,BR,Stock
+339,Wabtec Corp,WAB,Stock
+340,Centerpoint Energy Inc,CNP,Stock
+341,Cooper Cos Inc,COO,Stock
+342,Fifth Third Bancorp,FITB,Stock
+343,Nvr Inc,NVR,Stock
+344,Mid America Apartment Comm,MAA,Stock
+345,Fleetcor Technologies Inc,FLT,Stock
+346,Cms Energy Corp,CMS,Stock
+347,Skyworks Solutions Inc,SWKS,Stock
+348,United Airlines Holdings Inc,UAL,Stock
+349,Steel Dynamics Inc,STLD,Stock
+350,Teradyne Inc,TER,Stock
+351,Nasdaq Inc,NDAQ,Stock
+352,Ball Corp,BALL,Stock
+353,Kellogg Co,K,Stock
+354,Regions Financial Corp,RF,Stock
+355,Howmet Aerospace Inc,HWM,Stock
+356,Atmos Energy Corp,ATO,Stock
+357,Conagra Brands Inc,CAG,Stock
+358,Pultegroup Inc,PHM,Stock
+359,Iron Mountain Inc,IRM,Stock
+360,Principal Financial Group,PFG,Stock
+361,Lamb Weston Holdings Inc,LW,Stock
+362,Garmin Ltd,GRMN,Stock
+363,Tyler Technologies Inc,TYL,Stock
+364,Jm Smucker Co,SJM,Stock
+365,Expedia Group Inc,EXPE,Stock
+366,Targa Resources Corp,TRGP,Stock
+367,Molina Healthcare Inc,MOH,Stock
+368,Netapp Inc,NTAP,Stock
+369,Factset Research Systems Inc,FDS,Stock
+370,Cincinnati Financial Corp,CINF,Stock
+371,Carnival Corp,CCL,Stock
+372,Waters Corp,WAT,Stock
+373,Interpublic Group of Cos Inc,IPG,Stock
+374,Idex Corp,IEX,Stock
+375,Paycom Software Inc,PAYC,Stock
+376,Northern Trust Corp,NTRS,Stock
+377,Huntington Bancshares Inc,HBAN,Stock
+378,Amcor Plc,AMCR,Stock
+379,Brown & Brown Inc,BRO,Stock
+380,Solaredge Technologies Inc,SEDG,Stock
+381,Quest Diagnostics Inc,DGX,Stock
+382,Best Buy Co Inc,BBY,Stock
+383,Ptc Inc,PTC,Stock
+384,Essex Property Trust Inc,ESS,Stock
+385,Jacobs Solutions Inc,J,Stock
+386,Synchrony Financial,SYF,Stock
+387,Cboe Global Markets Inc,CBOE,Stock
+388,Revvity Inc,RVTY,Stock
+389,Akamai Technologies Inc,AKAM,Stock
+390,Marathon Oil Corp,MRO,Stock
+391,Snap on Inc,SNA,Stock
+392,Hunt (Jb) Transprt Svcs Inc,JBHT,Stock
+393,Zebra Technologies Corp Cl A,ZBRA,Stock
+394,Bunge Ltd,BG,Stock
+395,Tyson Foods Inc Cl A,TSN,Stock
+396,Eqt Corp,EQT,Stock
+397,Mgm Resorts International,MGM,Stock
+398,Aes Corp,AES,Stock
+399,Lkq Corp,LKQ,Stock
+400,Textron Inc,TXT,Stock
+401,Avery Dennison Corp,AVY,Stock
+402,Evergy Inc,EVRG,Stock
+403,Pool Corp,POOL,Stock
+404,Everest Re Group Ltd,RE,Stock
+405,Axon Enterprise Inc,AXON,Stock
+406,Alliant Energy Corp,LNT,Stock
+407,Cf Industries Holdings Inc,CF,Stock
+408,Citizens Financial Group,CFG,Stock
+409,Udr Inc,UDR,Stock
+410,Fmc Corp,FMC,Stock
+411,Stanley Black & Decker Inc,SWK,Stock
+412,Western Digital Corp,WDC,Stock
+413,Trimble Inc,TRMB,Stock
+414,Carmax Inc,KMX,Stock
+415,Epam Systems Inc,EPAM,Stock
+416,Seagate Technology Holdings,STX,Stock
+417,Molson Coors Beverage Co B,TAP,Stock
+418,Nordson Corp,NDSN,Stock
+419,Host Hotels & Resorts Inc,HST,Stock
+420,Masco Corp,MAS,Stock
+421,Match Group Inc,MTCH,Stock
+422,Camden Property Trust,CPT,Stock
+423,Live Nation Entertainment In,LYV,Stock
+424,Packaging Corp of America,PKG,Stock
+425,Etsy Inc,ETSY,Stock
+426,Mosaic Co,MOS,Stock
+427,Hormel Foods Corp,HRL,Stock
+428,Viatris Inc,VTRS,Stock
+429,Bio Techne Corp,TECH,Stock
+430,Kimco Realty Corp,KIM,Stock
+431,Jack Henry & Associates Inc,JKHY,Stock
+432,Brown Forman Corp Class B,BF.B,Stock
+433,Celanese Corp,CE,Stock
+434,Wr Berkley Corp,WRB,Stock
+435,Teleflex Inc,TFX,Stock
+436,International Paper Co,IP,Stock
+437,Incyte Corp,INCY,Stock
+438,Borgwarner Inc,BWA,Stock
+439,Healthpeak Properties Inc,PEAK,Stock
+440,Loews Corp,L,Stock
+441,Leidos Holdings Inc,LDOS,Stock
+442,C.H. Robinson Worldwide Inc,CHRW,Stock
+443,Apa Corp,APA,Stock
+444,Nisource Inc,NI,Stock
+445,Domino S Pizza Inc,DPZ,Stock
+446,Wynn Resorts Ltd,WYNN,Stock
+447,American Airlines Group Inc,AAL,Stock
+448,Charles River Laboratories,CRL,Stock
+449,Gen Digital Inc,GEN,Stock
+450,Tapestry Inc,TPR,Stock
+451,Caesars Entertainment Inc,CZR,Stock
+452,Qorvo Inc,QRVO,Stock
+453,Marketaxess Holdings Inc,MKTX,Stock
+454,Allegion Plc,ALLE,Stock
+455,Juniper Networks Inc,JNPR,Stock
+456,Henry Schein Inc,HSIC,Stock
+457,Ceridian Hcm Holding Inc,CDAY,Stock
+458,Pentair Plc,PNR,Stock
+459,Fox Corp Class A,FOXA,Stock
+460,Eastman Chemical Co,EMN,Stock
+461,Globe Life Inc,GL,Stock
+462,Rollins Inc,ROL,Stock
+463,Regency Centers Corp,REG,Stock
+464,Universal Health Services B,UHS,Stock
+465,Keycorp,KEY,Stock
+466,Campbell Soup Co,CPB,Stock
+467,Pinnacle West Capital,PNW,Stock
+468,Bath & Body Works Inc,BBWI,Stock
+469,Smith (a.O.) Corp,AOS,Stock
+470,F5 Inc,FFIV,Stock
+471,Huntington Ingalls Industrie,HII,Stock
+472,Paramount Global Class B,PARA,Stock
+473,Dentsply Sirona Inc,XRAY,Stock
+474,Nrg Energy Inc,NRG,Stock
+475,Norwegian Cruise Line Holdin,NCLH,Stock
+476,Whirlpool Corp,WHR,Stock
+477,Bio Rad Laboratories A,BIO,Stock
+478,Hasbro Inc,HAS,Stock
+479,Robert Half Intl Inc,RHI,Stock
+480,Franklin Resources Inc,BEN,Stock
+481,Boston Properties Inc,BXP,Stock
+482,Catalent Inc,CTLT,Stock
+483,Invesco Ltd,IVZ,Stock
+484,News Corp Class A,NWSA,Stock
+485,Generac Holdings Inc,GNRC,Stock
+486,Westrock Co,WRK,Stock
+487,Federal Realty Invs Trust,FRT,Stock
+488,Assurant Inc,AIZ,Stock
+489,Vf Corp,VFC,Stock
+490,Alaska Air Group Inc,ALK,Stock
+491,Dxc Technology Co,DXC,Stock
+492,Sealed Air Corp,SEE,Stock
+493,Comerica Inc,CMA,Stock
+494,Davita Inc,DVA,Stock
+495,Organon & Co,OGN,Stock
+496,Mohawk Industries Inc,MHK,Stock
+497,Ralph Lauren Corp,RL,Stock
+498,Fox Corp Class B,FOX,Stock
+499,Advance Auto Parts Inc,AAP,Stock
+500,Zions Bancorp Na,ZION,Stock
+501,Lincoln National Corp,LNC,Stock
+502,Newell Brands Inc,NWL,Stock
+503,News Corp Class B,NWS,Stock
+504,Dish Network Corp A,DISH,Stock
